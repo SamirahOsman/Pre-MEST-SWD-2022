@@ -1,0 +1,38 @@
+body{
+    background: grey;
+    text-align: center;
+}
+
+form{
+    border: 2px solid aqua;
+    padding: 20px;
+    width: 500px;
+    margin-left: 25rem;
+}
+
+
+input{
+    margin: 8px;
+    display: flex;
+    margin-left: 10rem;
+    padding: 10px;
+    border-radius: 7px;
+    border: none;
+    box-shadow: -5px 1px 1px -3px slateblue;
+}
+
+label{
+    color: blue;
+}
+button{
+    padding: 10px;
+    background-color: springgreen;
+    border-radius: 3px;
+    border: none;
+    font-size: 20px;
+
+}
+button:hover{
+    color: white;
+    background-color: blue;
+}
